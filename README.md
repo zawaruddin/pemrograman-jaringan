@@ -9,5 +9,5 @@ Modul ini merupakan josheet yang digunakan untuk membantu proses belajar di dala
  2.	Very Sugiarto, S.Pd., M.Kom.
  3.	Candrasena Setiadi, S.T., M.MT.
  4.	Grezio Arifiyahp, S.Kom., M.Kom.
- 5.	Moch Zawaruddin Abdullah, S.ST., M.Kom.
+ 5.	[Moch Zawaruddin Abdullah, S.ST., M.Kom.](https://github.com/zawaruddin)
 
